@@ -10,7 +10,7 @@ bb=result=add(b=7, a=3)# 순서 상관없이 쓸 수 있음.
 
 print(aa, bb)
 
-#입력값이 몇 개가 될지 모를 때
+#입력값이 몇 개가 될지 모를 때★★★
 def add_many(*args): # 매개변수 앞에 *를 붙이면 입력값을 전부 모아서 튜플로 만들어준다. arg 는 단순 이름으로 변경 가능하다.
     result = 0
     for i in args:
@@ -39,7 +39,7 @@ result= add_mul("mul", 1,2,3,4)
 print(result)
 
 #키워드 파라미터
-def print_kwargs(**kwargs):#앞에 별 두개
+def print_kwargs(**kwargs):#앞에 별 두개★★★
     print(kwargs)
 
 print_kwargs(a=1)

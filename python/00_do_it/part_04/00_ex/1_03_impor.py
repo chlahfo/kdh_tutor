@@ -4,7 +4,7 @@ def add_and_mul(a,b):
 result = add_and_mul(3,4)
 print(result)#(7, 12)
 
-#만약, 이 하나의 튜플 값을 2개의 결괏값으로 받고싶다면 다음과 같이 받는다.(튜플 값 할당처럼)
+#만약, 이 하나의 튜플 값을 2개의 결괏값으로 받고싶다면 다음과 같이 받는다.(튜플 값 할당처럼) ★★★
 result1, result2 = add_and_mul(3,4)
 
 print(result1)
@@ -40,17 +40,17 @@ say_myself("박응선", 27, False)
 # 매개변수는 함수 안에서만 사용되며 이름 바꿔도 그 안에서 통일하면 상관 x
 # 함수 안에서 전역 변수를 바꾸는 문장이 있어도, 함수 바깥에서까지는 적용되지 않음
 a= 1
-def vartest(a):
-    a+=1
+def vartest(b):
+    b+=1
 vartest(a)
 print(a)
 
 #함수 안에서 함수 밖의 변수를 변경하는 방법
 #1. return 사용하기 
 a = 1
-def vartest(a):
-    a=a+1
-    return a
+def vartest(b):
+    b=b+1
+    return b
 
 a = vartest(a)
 print(a)
@@ -65,7 +65,7 @@ def vartest():
 vartest()
 print(a)
 
-#lambda 함수를 생성할 때 사용하는 예약어. def 와 동일한 역할. 보통 함수를 한줄로 간결하게 만들 때 사용.(return 명령어가 없어도 결과값을 돌려줌.)
+#lambda 함수를 생성할 때 사용하는 예약어. def 와 동일한 역할. 보통 함수를 한줄로 간결하게 만들 때 사용.(return 명령어가 없어도 결과값을 돌려줌.)★★★
 add = lambda a,b : a+b
 resulte = add(3,4)
 print(result)
