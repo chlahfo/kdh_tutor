@@ -3,7 +3,8 @@ f = open("D:/miniFiles/kdh_tutor/python/00_do_it/part_05/00_ex/test_file.txt", "
 f.write("this is open test")
 f.close()
 
-f = open("test_file.txt", "rb")
+f = open("D:/miniFiles/kdh_tutor/python/00_do_it/part_05/00_ex/test_file.txt", "rb")
 a = f.read()
 print(a)
 f.close()
+
