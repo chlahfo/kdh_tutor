@@ -1,10 +1,18 @@
-s = input()
+#문자열 압축하기
+import sys
+import re
+st = sys.stdin.readline().rstrip()
 result=""
-n = 1
-for i in range(len(s)-1):
-    if s[i]==s[i+1]:
-        n += 1
-    elif s[i] != s[i+1] or i == len(s)-1:
-        result += s[i]+str(n)
-        n = 1        
+count=1
+
+for i in range(len(st)):
+    if i+1 != len(st):
+        if st[i] == st[i+1]:
+            count += 1
+        else:
+            result += st[i] + str(count)
+            count = 1
+    else:
+        result += st[i] + str(count)
+        count = 1
 print(result)
