@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="ko-KR" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<title>[모집] 2022우아한테크캠프 5기 | 우아한형제들 기술블로그</title>
+<!-- All in One SEO 4.1.7 -->
+<meta content="max-image-preview:large" name="robots">
+<link href="https://techblog.woowahan.com/8154/" rel="canonical">
+<meta content="ko_KR" property="og:locale">
+<meta content="우아한형제들 기술블로그  |" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="[모집] 2022우아한테크캠프 5기 | 우아한형제들 기술블로그" property="og:title"/>
+<meta content="https://techblog.woowahan.com/8154/" property="og:url"/>
+<meta content="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg" property="og:image"/>
+<meta content="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg" property="og:image:secure_url"/>
+<meta content="1640" property="og:image:width"/>
+<meta content="856" property="og:image:height"/>
+<meta content="2022-04-15T09:19:15+00:00" property="article:published_time"/>
+<meta content="2022-05-04T01:07:06+00:00" property="article:modified_time"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="[모집] 2022우아한테크캠프 5기 | 우아한형제들 기술블로그" name="twitter:title"/>
+<meta content="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg" name="twitter:image"/>
+<script class="aioseo-schema" type="application/ld+json">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/techblog.woowahan.com\/#website","url":"https:\/\/techblog.woowahan.com\/","name":"우아한형제들 기술블로그","inLanguage":"ko-KR","publisher":{"@id":"https:\/\/techblog.woowahan.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/techblog.woowahan.com\/#organization","name":"우아한형제들 기술블로그","url":"https:\/\/techblog.woowahan.com\/","logo":{"@type":"ImageObject","@id":"https:\/\/techblog.woowahan.com\/#organizationLogo","url":"https:\/\/techblog.woowa.in\/wp-content\/uploads\/2021\/06\/screenshot.jpg"},"image":{"@id":"https:\/\/techblog.woowahan.com\/#organizationLogo"}},{"@type":"BreadcrumbList","@id":"https:\/\/techblog.woowahan.com\/8154\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/techblog.woowahan.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/techblog.woowahan.com\/","name":"홈","description":"우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.","url":"https:\/\/techblog.woowahan.com\/"}}]},{"@type":"Person","@id":"https:\/\/techblog.woowahan.com\/author\/dev_relations\/#author","url":"https:\/\/techblog.woowahan.com\/author\/dev_relations\/","name":"우아한형제들 DevRel","image":{"@type":"ImageObject","@id":"https:\/\/techblog.woowahan.com\/8154\/#authorImage","url":"https:\/\/techblog.woowahan.com\/wp-content\/uploads\/2021\/08\/201908-우아한테크-로고-e1663146768450.jpg","width":96,"height":96,"caption":"우아한형제들 DevRel"}},{"@type":"WebPage","@id":"https:\/\/techblog.woowahan.com\/8154\/#webpage","url":"https:\/\/techblog.woowahan.com\/8154\/","name":"[모집] 2022우아한테크캠프 5기 | 우아한형제들 기술블로그","inLanguage":"ko-KR","isPartOf":{"@id":"https:\/\/techblog.woowahan.com\/#website"},"breadcrumb":{"@id":"https:\/\/techblog.woowahan.com\/8154\/#breadcrumblist"},"author":"https:\/\/techblog.woowahan.com\/author\/dev_relations\/#author","creator":"https:\/\/techblog.woowahan.com\/author\/dev_relations\/#author","datePublished":"2022-04-15T09:19:15+09:00","dateModified":"2022-05-04T01:07:06+09:00"},{"@type":"Article","@id":"https:\/\/techblog.woowahan.com\/8154\/#article","name":"[모집] 2022우아한테크캠프 5기 | 우아한형제들 기술블로그","inLanguage":"ko-KR","headline":"[모집] 2022우아한테크캠프 5기","author":{"@id":"https:\/\/techblog.woowahan.com\/author\/dev_relations\/#author"},"publisher":{"@id":"https:\/\/techblog.woowahan.com\/#organization"},"datePublished":"2022-04-15T09:19:15+09:00","dateModified":"2022-05-04T01:07:06+09:00","articleSection":"우아한테크캠프","mainEntityOfPage":{"@id":"https:\/\/techblog.woowahan.com\/8154\/#webpage"},"isPartOf":{"@id":"https:\/\/techblog.woowahan.com\/8154\/#webpage"},"image":{"@type":"ImageObject","@id":"https:\/\/techblog.woowahan.com\/#articleImage","url":"https:\/\/techblog.woowahan.com\/wp-content\/uploads\/2022\/04\/220406_우아한테크캠프_5기_포스터수정-1.png","width":1830,"height":1322}}]}
+		</script>
+<!-- All in One SEO -->
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://techblog.woowahan.com/feed/" rel="alternate" title="우아한형제들 기술블로그 » 피드" type="application/rss+xml"/>
+<link href="https://techblog.woowahan.com/comments/feed/" rel="alternate" title="우아한형제들 기술블로그 » 댓글 피드" type="application/rss+xml"/>
+<link href="https://techblog.woowahan.com/8154/feed/" rel="alternate" title="우아한형제들 기술블로그 » [모집] 2022우아한테크캠프 5기 댓글 피드" type="application/rss+xml"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/techblog.woowahan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.5"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://techblog.woowahan.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.5" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link href="https://techblog.woowahan.com/wp-content/plugins/post-hit-counter/assets/css/frontend.css?ver=1.3.2" id="post_hit_counter-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://techblog.woowahan.com/wp-content/uploads/wp-less/updater-0W9NMo/assets/css/style-989b48800d.css" id="less-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/assets/css/style-content.css?ver=5.9.5" id="content-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/assets/css/swiper-bundle.css?ver=5.9.5" id="swiper-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://techblog.woowahan.com/wp-content/plugins/post-hit-counter/assets/css/widget.css?ver=1.3.2" id="post_hit_counter-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic&amp;subset=latin" id="sab-font-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://techblog.woowahan.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://techblog.woowahan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="sticky-js-js" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/assets/js/sticky.min.js?ver=5.9.5" type="text/javascript"></script>
+<script id="swiper-js-js" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/assets/js/swiper-bundle.min.js?ver=5.9.5" type="text/javascript"></script>
+<script id="vuejs-js" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/build/vue.min.js?ver=5.9.5" type="text/javascript"></script>
+<link href="https://techblog.woowahan.com/wp-json/" rel="https://api.w.org/"/><link href="https://techblog.woowahan.com/wp-json/wp/v2/posts/8154" rel="alternate" type="application/json"/><link href="https://techblog.woowahan.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://techblog.woowahan.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.9.5" name="generator"/>
+<link href="https://techblog.woowahan.com/?p=8154" rel="shortlink"/>
+<link href="https://techblog.woowahan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftechblog.woowahan.com%2F8154%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://techblog.woowahan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftechblog.woowahan.com%2F8154%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- This website uses the Ultimate Social Comments plugin v2.0.0 - https://wordpress.org/plugins/ultimate-facebook-comments/ -->
+<meta content="596588250503455" property="fb:app_id"/>
+<style type="text/css">.fb-comments, .fb-comments span, .fb-comments span iframe[style] { min-width:100% !important; width:100% !important }</style>
+<style type="text/css">.saboxplugin-wrap{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;border:1px solid #eee;width:100%;clear:both;display:block;overflow:hidden;word-wrap:break-word;position:relative}.saboxplugin-wrap .saboxplugin-gravatar{float:left;padding:0 20px 20px 20px}.saboxplugin-wrap .saboxplugin-gravatar img{max-width:100px;height:auto;border-radius:0;}.saboxplugin-wrap .saboxplugin-authorname{font-size:18px;line-height:1;margin:20px 0 0 20px;display:block}.saboxplugin-wrap .saboxplugin-authorname a{text-decoration:none}.saboxplugin-wrap .saboxplugin-authorname a:focus{outline:0}.saboxplugin-wrap .saboxplugin-desc{display:block;margin:5px 20px}.saboxplugin-wrap .saboxplugin-desc a{text-decoration:underline}.saboxplugin-wrap .saboxplugin-desc p{margin:5px 0 12px}.saboxplugin-wrap .saboxplugin-web{margin:0 20px 15px;text-align:left}.saboxplugin-wrap .sab-web-position{text-align:right}.saboxplugin-wrap .saboxplugin-web a{color:#ccc;text-decoration:none}.saboxplugin-wrap .saboxplugin-socials{position:relative;display:block;background:#fcfcfc;padding:5px;border-top:1px solid #eee}.saboxplugin-wrap .saboxplugin-socials a svg{width:20px;height:20px}.saboxplugin-wrap .saboxplugin-socials a svg .st2{fill:#fff; transform-origin:center center;}.saboxplugin-wrap .saboxplugin-socials a svg .st1{fill:rgba(0,0,0,.3)}.saboxplugin-wrap .saboxplugin-socials a:hover{opacity:.8;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;box-shadow:none!important;-webkit-box-shadow:none!important}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color{box-shadow:none;padding:0;border:0;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;display:inline-block;color:#fff;font-size:0;text-decoration:inherit;margin:5px;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;-o-border-radius:0;border-radius:0;overflow:hidden}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey{text-decoration:inherit;box-shadow:none;position:relative;display:-moz-inline-stack;display:inline-block;vertical-align:middle;zoom:1;margin:10px 5px;color:#444;fill:#444}.clearfix:after,.clearfix:before{content:' ';display:table;line-height:0;clear:both}.ie7 .clearfix{zoom:1}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitch{border-color:#38245c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-addthis{border-color:#e91c00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-behance{border-color:#003eb0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-delicious{border-color:#06c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-deviantart{border-color:#036824}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-digg{border-color:#00327c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-dribbble{border-color:#ba1655}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-facebook{border-color:#1e2e4f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-flickr{border-color:#003576}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-github{border-color:#264874}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-google{border-color:#0b51c5}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-googleplus{border-color:#96271a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-html5{border-color:#902e13}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-instagram{border-color:#1630aa}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-linkedin{border-color:#00344f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-pinterest{border-color:#5b040e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-reddit{border-color:#992900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-rss{border-color:#a43b0a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-sharethis{border-color:#5d8420}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-skype{border-color:#00658a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-soundcloud{border-color:#995200}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-spotify{border-color:#0f612c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stackoverflow{border-color:#a95009}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-steam{border-color:#006388}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-user_email{border-color:#b84e05}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stumbleUpon{border-color:#9b280e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-tumblr{border-color:#10151b}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitter{border-color:#0967a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vimeo{border-color:#0d7091}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-windows{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-whatsapp{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-wordpress{border-color:#0f3647}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-yahoo{border-color:#14002d}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-youtube{border-color:#900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-xing{border-color:#000202}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mixcloud{border-color:#2475a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vk{border-color:#243549}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-medium{border-color:#00452c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-quora{border-color:#420e00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-meetup{border-color:#9b181c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-goodreads{border-color:#000}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-snapchat{border-color:#999700}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-500px{border-color:#00557f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mastodont{border-color:#185886}.sabox-plus-item{margin-bottom:20px}@media screen and (max-width:480px){.saboxplugin-wrap{text-align:center}.saboxplugin-wrap .saboxplugin-gravatar{float:none;padding:20px 0;text-align:center;margin:0 auto;display:block}.saboxplugin-wrap .saboxplugin-gravatar img{float:none;display:inline-block;display:-moz-inline-stack;vertical-align:middle;zoom:1}.saboxplugin-wrap .saboxplugin-desc{margin:0 10px 20px;text-align:center}.saboxplugin-wrap .saboxplugin-authorname{text-align:center;margin:10px 0 20px}}body .saboxplugin-authorname a,body .saboxplugin-authorname a:hover{box-shadow:none;-webkit-box-shadow:none}a.sab-profile-edit{font-size:16px!important;line-height:1!important}.sab-edit-settings a,a.sab-profile-edit{color:#0073aa!important;box-shadow:none!important;-webkit-box-shadow:none!important}.sab-edit-settings{margin-right:15px;position:absolute;right:0;z-index:2;bottom:10px;line-height:20px}.sab-edit-settings i{margin-left:5px}.saboxplugin-socials{line-height:1!important}.rtl .saboxplugin-wrap .saboxplugin-gravatar{float:right}.rtl .saboxplugin-wrap .saboxplugin-authorname{display:flex;align-items:center}.rtl .saboxplugin-wrap .saboxplugin-authorname .sab-profile-edit{margin-right:10px}.rtl .sab-edit-settings{right:auto;left:0}img.sab-custom-avatar{max-width:75px;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color .st1 {display: none;}.saboxplugin-wrap .saboxplugin-authorname {font-family:"Noto Sans";}.saboxplugin-wrap .saboxplugin-desc {font-family:Noto Sans;}.saboxplugin-wrap {margin-top:40px; margin-bottom:0px; padding: 0px 0px }.saboxplugin-wrap .saboxplugin-authorname {font-size:14px; line-height:21px;}.saboxplugin-wrap .saboxplugin-desc p, .saboxplugin-wrap .saboxplugin-desc {font-size:14px !important; line-height:21px !important;}.saboxplugin-wrap .saboxplugin-web {font-size:14px;}.saboxplugin-wrap .saboxplugin-socials a svg {width:36px;height:36px;}</style><link href="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico" rel="icon" sizes="32x32"/>
+<link href="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico" rel="icon" sizes="192x192"/>
+<link href="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico" rel="apple-touch-icon"/>
+<meta content="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico" name="msapplication-TileImage"/>
+<script type="text/javascript">
+		var ajaxurl = "https://techblog.woowahan.com/wp-admin/admin-ajax.php";
+	</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JQ34XQDGNB"></script>
+<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'G-JQ34XQDGNB');
+	</script>
+<!-- Naver -->
+<meta content="4b53b1e487890e94c3d0f88804669d2f565d1eb0" name="naver-site-verification"/>
+</meta></link></meta></head>
+<body class="post-template-default single single-post postid-8154 single-format-standard wp-embed-responsive" data-barba="wrapper" data-rsssl="1">
+<header>
+<!--헤더-->
+<div class="gnb pc">
+<div>
+<a class="title" href="/">
+<span class="logo">
+<img src="/wp-content/uploads/2021/04/logo-e1619937994625.png"/>
+</span>
+<span class="sub-logo">기술블로그</span>
+</a>
+</div>
+<div class="menu">
+<div class="menu-2">
+<img class="search" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/search.svg"/>
+<a href="https://www.facebook.com/woowahanTech" name="facebook" target="_blank">
+<img src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/1.svg"/>
+</a>
+<a href="https://www.youtube.com/%EC%9A%B0%EC%95%84%ED%95%9CTech" name="youtube" target="_blank">
+<img src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/2.svg"/>
+</a>
+</div>
+<div class="txt">
+<a href="https://career.woowahan.com/?utm_source=techblog&amp;utm_medium=display&amp;utm_campaign=2022_1h_developer_recuiting_da&amp;utm_content=techhr&amp;jobCodes&amp;employmentTypeCodes=&amp;serviceSectionCodes=&amp;careerPeriod=&amp;keyword=&amp;category=jobGroupCodes%3ABA005001&amp;fbclid=IwAR1SDMBF6WjfUZ1WV-JrCYxYyAGBf92r-Au1TQ0seGgOuT0ZuAT7XUilsGg#recruit-list" target="_blank">개발자 채용</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe5HMoawj5-lsjcOLvF5BtxWWr7D_uZXYChkWse1bgQs58C4w/viewform" target="_blank">뉴스레터 신청</a>
+</div>
+</div>
+</div>
+<div class="gnb mob">
+<div>
+<a class="title" href="/">
+<span class="logo">
+<img src="/wp-content/uploads/2021/04/logo-e1619937994625.png"/>
+</span>
+<span class="sub-logo">기술블로그</span>
+</a>
+</div>
+<div class="right">
+<div class="hambug_btn">
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div class="search">
+<img src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/search.svg"/>
+</div>
+</div>
+</div>
+</header>
+<div class="search_wrap">
+<span class="search_inner">
+<form action="/" class="searchform" id="searchform" method="get" role="search">
+<input class="searchbar" id="s" name="s" placeholder="검색어를 입력해주세요." type="text"/>
+<input id="searchsubmit" type="submit" value=""/>
+</form>
+<br/>
+<a class="search" href="#">돌아가기</a>
+</span>
+</div>
+<div class="content vuejs">
+<div class="hambug_menu">
+<div class="top"></div>
+<div class="inner">
+<div class="menu-wrap">
+<a class="item link" v-bind:data-id="item.cat_ID" v-bind:href="'/category/'+item.slug" v-for="item in categories">
+<!-- <input v-bind:id="'cat-'+item.slug" type="checkbox" v-bind:value="item.slug"
+							v-model="vcategory" /> -->
+<label>{{item.name}}</label>
+</a>
+</div>
+<div class="menu-wrap extra">
+<p class="item"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe5HMoawj5-lsjcOLvF5BtxWWr7D_uZXYChkWse1bgQs58C4w/viewform">우아한Tech에 문의하기</a></p>
+<p class="item"><a href="https://career.woowahan.com/?utm_source=techblog&amp;utm_medium=display&amp;utm_campaign=2022_1h_developer_recuiting_da&amp;utm_content=techhr&amp;jobCodes&amp;employmentTypeCodes=&amp;serviceSectionCodes=&amp;careerPeriod=&amp;keyword=&amp;category=jobGroupCodes%3ABA005001&amp;fbclid=IwAR1SDMBF6WjfUZ1WV-JrCYxYyAGBf92r-Au1TQ0seGgOuT0ZuAT7XUilsGg#recruit-list" target="_blank">개발자 채용</a></p>
+</div>
+<div class="menu-wrap extra">
+<p>
+<a class="sns" href="/" target="_blank">
+<img src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/1.svg"/>
+</a>
+<a class="sns" href="/" target="_blank">
+<img src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/2.svg"/>
+</a>
+</p>
+</div>
+</div>
+<div class="bottom">
+</div>
+</div>
+<!-- page content -->
+<svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 0.49803921568627" type="table"></fefuncr><fefuncg tablevalues="0 0.49803921568627" type="table"></fefuncg><fefuncb tablevalues="0 0.49803921568627" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 1" type="table"></fefuncr><fefuncg tablevalues="0 1" type="table"></fefuncg><fefuncb tablevalues="0 1" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.54901960784314 0.98823529411765" type="table"></fefuncr><fefuncg tablevalues="0 1" type="table"></fefuncg><fefuncb tablevalues="0.71764705882353 0.25490196078431" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 1" type="table"></fefuncr><fefuncg tablevalues="0 0.27843137254902" type="table"></fefuncg><fefuncb tablevalues="0.5921568627451 0.27843137254902" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 0" type="table"></fefuncr><fefuncg tablevalues="0 0.64705882352941" type="table"></fefuncg><fefuncb tablevalues="0 1" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.78039215686275 1" type="table"></fefuncr><fefuncg tablevalues="0 0.94901960784314" type="table"></fefuncg><fefuncb tablevalues="0.35294117647059 0.47058823529412" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.65098039215686 0.40392156862745" type="table"></fefuncr><fefuncg tablevalues="0 1" type="table"></fefuncg><fefuncb tablevalues="0.44705882352941 0.4" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.098039215686275 1" type="table"></fefuncr><fefuncg tablevalues="0 0.66274509803922" type="table"></fefuncg><fefuncb tablevalues="0.84705882352941 0.41960784313725" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><div class="content-wrap">
+<div class="post-content">
+<div class="cont-header">
+<h1>[모집] 2022우아한테크캠프 5기</h1>
+<div class="col col-2">
+<div class="author">
+<span>
+            Apr.15.2022        </span>
+<span>
+            우아한형제들 DevRel        </span>
+<span class="thumb">
+<img alt="우아한형제들 DevRel" class="avatar avatar-150 wp-user-avatar wp-user-avatar-150 alignnone photo" height="150" src="https://techblog.woowahan.com/wp-content/uploads/2021/08/201908-우아한테크-로고-e1663146768450-150x150.jpg" width="150"/> </span>
+</div>
+<div class="sns">
+<img alt="clipboard" onclick="SNS('clipboard')" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/link.svg"/>
+<img alt="facebook" onclick="SNS('facebook')" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/facebook.svg"/>
+<img alt="twitter" onclick="SNS('twitter')" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/imgs/twitter.svg"/>
+</div>
+</div>
+<p>
+<span class="cats">
+<a class="cat-tag" data-slug="%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%ba%a0%ed%94%84" href="/?pcat=%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%ba%a0%ed%94%84">
+            우아한테크캠프        </a>
+</span>
+</p>
+</div>
+<div class="post-content-inner">
+<div class="toc">
+<ul>
+<li v-for="item in tocs">
+<a class="item" v-bind:href="'#'+item.link">{{item.name}}</a>
+<ul v-if="item.sub &amp;&amp; item.sub.length &gt; 0">
+<li v-for="sub in item.sub">
+<a v-bind:href="'#'+sub.link">{{sub.name}}</a>
+</li>
+</ul>
+</li>
+</ul></div>
+<blockquote>
+<p>우아한개발자가 되고 싶은 분들을 위한 우아한테크캠프 5기 모집이 시작됩니다!<br>
+우아한테크캠프는 여름 방학기간을 활용해 진행되는 채용 연계형 교육 프로그램입니다.<br/>
+교육은 온/오프라인 병행으로 계획하고 있으나, 사회적 상황에 따라 안전하고 유연한 교육방식을 준비하고 있습니다.</br></p>
+</blockquote>
+<p><img alt="" src="https://techblog.woowahan.com/wp-content/uploads/2022/04/220406_우아한테크캠프_5기_포스터수정-1-1024x740.png"/></p>
+<h2>올해 우아한테크캠프 5기는요!</h2>
+<h4>🏝 여름방학 8주 동안</h4>
+<h4>💡 웹프론트엔드 중심 풀스택 &amp; 모바일 안드로이드</h4>
+<h4>👩🏽‍💻🧑🏽‍💻 자기주도형 프로젝트 기반 교육</h4>
+<h4>🤝 우아한개발자와 함께하는 멘토링</h4>
+<h4>🎉 신입 개발자로 채용의 기회까지</h4>
+<h2>두 가지 교육과정 중 내가 희망하는 과정을 골라볼까요?</h2>
+<p>이번 우아한테크캠프 5기에서는 2가지 분야의 교육과정이 진행됩니다.<br/>
+웹프론트엔드 중심으로 백엔드를 함께 배우는 풀스택 과정과 모바일 안드로이드 앱 과정이 함께 오픈됩니다. </p>
+<p>두 교육과정 모두 8주 동안 강의와 미니 프로젝트를 통해 실제 서비스를 만들어 보는 경험을 하게 되는데요.<br/>
+교육생으로 참여를 원하시는 분은 앞으로 자신이 발전시키려는 커리어패스에 따라 하나의 과정을 선택하여 지원해 주시면 됩니다.🙂 </p>
+<p>아래에 첨부 드리는 커리큘럼을 살펴봐 주세요.</p>
+<p><strong>(1) 웹프론트엔드 중심 풀스택 교육 과정</strong><br/>
+<img alt="" src="https://techblog.woowahan.com/wp-content/uploads/2022/04/우테캠_웹.png"/></p>
+<p><strong>(2) 모바일 안드로이드 교육 과정</strong><br/>
+<img alt="" src="https://techblog.woowahan.com/wp-content/uploads/2022/04/우테캠_안드로이드.png"><br/>
+우아한테크캠프 5기 교육은 코드스쿼드의 윤지수님, 정호영님, 배인진님께서 맡아 진행해 주실 예정입니다.<br/>
+각 분야 교육을 담당해주실 마스터님이 궁금하시다면 아래의 글을 읽어 보시기 바랍니다. 😊 </img></p>
+<ul>
+<li>웹프론트엔드 교육 담당 윤지수님 : <a href="https://codesquad-yoda.medium.com/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9" title="웹프론트엔드 개발자, 어떻게 준비해야할까? ">웹프론트엔드 개발자, 어떻게 준비해야할까? </a></li>
+<li>백엔드 교육 담당 정호영님 : <a href="https://codesquad-yoda.medium.com/%EC%A7%80%EC%8B%9D%EC%9D%98-%EC%A0%80%EC%A3%BC%EB%A5%BC-%EA%B7%B9%EB%B3%B5%ED%95%98%EA%B8%B0-bb9a697b1bf5" title="지식의 저주를 극복하기">지식의 저주를 극복하기</a></li>
+<li>안드로이드 교육 담당 배인진님 : <a href="https://eyegochild.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%B8-%ED%95%99%EC%8A%B5-%EB%B0%A9%EB%B2%95-a076e08bafe2" title="개발자가 되기 위한 현실적인 학습 방법">개발자가 되기 위한 현실적인 학습 방법</a></li>
+</ul>
+<p>아래는 참고를 위해 공유드리는 지난 2021 우아한테크캠프에서 실제 수행한 프로젝트 입니다.<br/>
+올해 우아한테크캠프에서 수행할 프로젝트에 대한 힌트로 살짝 살펴보실까요?😉</p>
+<ul>
+<li><a href="https://baemin-17-mybaemin.herokuapp.com/" title="21년 첫번째 프로젝트 - 배민 회원가입 서비스">21년 첫번째 프로젝트 – 배민 회원가입 서비스</a></li>
+<li><a href="http://woowa.store/main" title="21년 네번째 프로젝트 - 배민 문방구 서비스">21년 네번째 프로젝트 – 배민 문방구 서비스</a></li>
+</ul>
+<h2>우아한테크캠프는 개발자로서의 성장을 꿈꾸는 여러분을 기다립니다.</h2>
+<p>우아한테크캠프는 우아한형제들의 신입개발자 채용 과정이기도 하지만, 개발자가 되고자 하는 분들 누구나 환영하는, 참가 자체만으로도 유익한 교육 프로그램, 캠프가 되고자 합니다.<br/>
+우아한형제들이라는 회사에서 우아한개발자가 되고자하는 분들을 포함하여, 개발자로서의 성장을 위해 어떤 것들이 필요하고 어떤 것을 배워야 하는지 궁금하고 경험해보고 싶은 분들을 환영합니다.</p>
+<p>지난 캠프들과 마찬가지로 학력에 대한 제한은 전혀 없습니다. 이미 2-3년의 경력을 가진 분들이 지원하시는 것도 문제가 없습니다.<br/>
+프로그래밍에 대한 기본기와 열정만 있다면 누구나 지원 가능하지만, 7/5 부터 8/30까지 우아한테크캠프에 풀타임으로 참여가 가능해야 하고, 2022년 하반기에 취업이 가능한 분이어야 합니다.</p>
+<h2>지원방법</h2>
+<h4><a href="https://programmers.co.kr/competitions/2429/2022-%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%84-5%EA%B8%B0" title="[클릭]사전접수하기">[클릭]사전접수페이지</a> (4/28~5/5)</h4>
+<p>우아한테크캠프 5기 지원은 4월 28일부터 프로그래머스 사전접수 페이지를 통해 시작됩니다.</p>
+<ul>
+<li>
+<p><strong>전형단계</strong><br/>
+사전접수 &gt; 1차 코딩테스트 &gt; 2차 과제테스트 &gt; 서류접수 &gt; 면접 &gt; 우아한테크캠프</p>
+</li>
+<li>
+<p><strong>코딩테스트 진행일정</strong><br/>
+사전접수: 2022.04.28(목) 00:00 ~ 2022.05.05(목) 13:00<br/>
+1차 코딩테스트: 2022.05.08(일) 13:00 ~ 15:30<br/>
+2차 과제테스트: 2022.05.15(일) 13:00 ~ 17:00</p>
+</li>
+</ul>
+<hr/>
+<h2>우아한테크캠프 FAQ</h2>
+<p><strong>Q )</strong> 코로나19 영향으로 일정이 조정/취소될 수 있나요?<br/>
+<strong>A )</strong> 신입 개발자 양성이라는 목적과 취지에 따라, 계획했던 대로 진행할 예정입니다. 사회적 거리두기 기간이 지속될 경우를 고려하여 모든 가능성을 열어두고 우아한테크캠프의 진행 방식을 구상하고 있습니다.<br/>
+캠프 선발과정 및 교육과정은 교육생분들께 가장 안전하고도 효과적인 방식이 될 것이며, 상황에 따라 온/오프라인 병행으로 진행하는 등 유연한 진행방식을 준비중입니다.</p>
+<p><strong>Q )</strong> 코딩테스트 방식 및 응시 언어는?<br/>
+<strong>A )</strong> 웹프론트엔드 기반 풀스택 과정 응시자는 자바스크립트를 이용하여 수행하게 됩니다.<br/>
+모바일 안드로이드 과정 응시자의 경우 1차테스트는 자바/코틀린 택1, 2차테스트는 코틀린으로 수행합니다.</p>
+<p><strong>Q )</strong> 우아한테크캠프 운영 시간 및 장소는?<br/>
+<strong>A )</strong> 월요일 1시-5시, 화-금 10시-6시.(운영 상황에 따라 변동될 수 있습니다.) 우아한테크캠프를 위한 우아한형제들 내 교육장을 마련할 예정이지만, 구체적인 교육방식은 추후 확정해서 상세히 안내드리겠습니다.</p>
+<p><strong>Q )</strong> 우아한테크캠프 참가자에 지급되는 금액이 있나요?<br/>
+<strong>A )</strong> 월 150만원 활동비를 지급하며, 온라인 진행시 재택근무 지원금 월 10만원을 추가로 지원합니다.</p>
+<p><strong>Q )</strong> 우아한테크캠프 진행 시 필요한 장비는 지원되나요?<br/>
+<strong>A )</strong> 장비는 회사에서 대여하여 캠프 시작시에 지급합니다.</p>
+<p><strong>Q )</strong> 우아한테크캠프 참가자에 대한 입사 특전이 있나요?<br/>
+<strong>A )</strong> 우아한테크캠프를 수료한 분들을 대상으로 우아한형제들 신입개발자 채용전형을 진행할 예정이며, 선발 규모는 정해져 있지 않습니다.</p>
+<p><strong>Q )</strong> 이전 기수의 우아한테크캠프에 탈락했는데 재지원 가능한가요?<br/>
+<strong>A )</strong> 지원요건을 충족하신다면 이전 기수 탈락자도 충분히 지원 가능합니다.</p>
+<p><strong>Q )</strong> 우아한테크캠프 5기 지원시 2가지 분야에 모두 중복지원 가능한가요?<br/>
+<strong>A )</strong> 중복 지원은 불가능합니다. 하나의 분야에만 선택하여 지원 부탁 드립니다.</p>
+<p><strong>Q )</strong> 모바일 iOS 교육과정은 진행하지 않나요?<br/>
+<strong>A )</strong> 이번 우아한테크캠프 5기에서 iOS 분야의 교육 과정은 진행하지 않습니다.</p>
+<hr/>
+<p>기타 문의사항은 techcamp@woowahan.com 으로 주시면 보다 신속하고 상세하게 안내받으실 수 있습니다.<br/>
+많은 지원 부탁드립니다.</p>
+<div class="saboxplugin-wrap" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><div class="saboxplugin-tab"><div class="saboxplugin-gravatar"><img alt="우아한형제들 DevRel" class="avatar avatar-100 wp-user-avatar wp-user-avatar-100 alignnone photo" height="100" src="https://techblog.woowahan.com/wp-content/uploads/2021/08/201908-우아한테크-로고-e1663146768450-150x150.jpg" width="100"/></div><div class="saboxplugin-authorname"><a class="vcard author" href="https://techblog.woowahan.com/author/dev_relations/" itemprop="url" rel="author"><span class="fn" itemprop="name">우아한형제들 DevRel</span></a></div><div class="saboxplugin-desc"><div itemprop="description"><p>공통 관심사를 가진 개발자들이 기술 교류 활동을 통해 함께 성장할 수 있기를 희망합니다.<br/>
+기술블로그, 우아한테크세미나, 우아한스터디, 우아한테크캠프, 우아콘에서 자주 만나요!</p>
+</div></div><div class="saboxplugin-web"><a href="http://facebook.com/woowahanTech" target="_blank">facebook.com/woowahanTech</a></div><div class="clearfix"></div></div></div> </div>
+</div>
+<div class="fb_comment_wrap">
+<div class="ufc-comments ufc-comments-area" id="" style="width:100%;"><div id="ufc-button-div" style="text-align: center; display: none;"><button class="btn button" id="ufc-button">Leave a Comment</button></div><div class="fb-comments" data-colorscheme="light" data-href="https://techblog.woowahan.com/8154/" data-notify="true" data-numposts="10" data-order-by="social" data-width="100%" id="fbc-comments-div"></div></div>
+<!-- Facebook SDK is added by Ultimate Social Comments v2.0.0 plugin -->
+<div id="fb-root"></div><script type="text/javascript">(function() {(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.async = true;
+        js.src = '//connect.facebook.net/ko_KR/sdk.js#xfbml=1&autoLogAppEvents=1&version=v7.0&appId=596588250503455';
+        fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        })();</script>
+<!-- / End of Facebook SDK -->
+</div>
+<div class="col col-1 post-bottom">
+<a class="toback" href="/">
+            목록으로 돌아가기
+        </a>
+<div class="col col-2">
+<div class="prev">
+<a href="https://techblog.woowahan.com/7976/" rel="prev">Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기</a> </div>
+<div class="next">
+<a href="https://techblog.woowahan.com/8159/" rel="next">[다시보기] 4월 우아한테크세미나｜지속가능한 SW개발을 위한 코드리뷰</a> </div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<!-- 푸터내용 -->
+</footer>
+<script id="ufc-frontend-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var ufc_frontend_ajax_data = {"ajaxurl":"https:\/\/techblog.woowahan.com\/wp-admin\/admin-ajax.php","permalink":"https:\/\/techblog.woowahan.com\/8154\/","title":"[모집] 2022우아한테크캠프 5기","postid":"8154","security":"49fd385848","version":"2.0.0"};
+/* ]]> */
+</script>
+<script id="ufc-frontend-script-js" src="https://techblog.woowahan.com/wp-content/plugins/ultimate-facebook-comments-2/public/js/frontend.min.js?ver=2.0.0" type="text/javascript"></script>
+<script id="main-js-js" src="https://techblog.woowahan.com/wp-content/themes/updater-0W9NMo/assets/js/main.js?ver=5.9.5" type="text/javascript"></script>
+<script id="module-prism-line-number"> (function($) { $(function() { $("code").each(function() { var parent_div = $(this).parent("pre"); var pre_css = $(this).attr("class"); if (typeof pre_css !== "undefined" && -1 !== pre_css.indexOf("language-")) { parent_div.addClass("line-numbers"); } }); }); })(jQuery); </script> </body>
+</html>
+<!-- Page supported by LiteSpeed Cache 3.6.4 on 2022-10-30 21:19:08 -->
