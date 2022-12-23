@@ -3,8 +3,10 @@
 
 int main(void){
     double kg, cm, bmi;
+
     printf("몸무게를 입력해주세요(단위 kg): ");
     scanf("%lf", &kg);
+    
     printf("키를 입력해주세요(단위 cm): ");
     scanf("%lf", &cm);
 
