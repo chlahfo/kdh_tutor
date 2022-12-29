@@ -10,6 +10,6 @@ int main(void){
     printf("이름 입력: ");
     scanf("%s", name);
     printf("%s의 학점은 %c입니다.\n", name, grade);
-
+ 
     return 0;
 }
