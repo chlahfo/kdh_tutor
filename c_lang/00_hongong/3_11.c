@@ -5,11 +5,11 @@ int main(void){
     char grade;
     char name[20];
 
-    printf("ÇĞÁ¡ ÀÔ·Â : ");
+    printf("í•™ì  ì…ë ¥ : ");
     scanf("%c", &grade);
-    printf("ÀÌ¸§ ÀÔ·Â: ");
+    printf("ì´ë¦„ ì…ë ¥: ");
     scanf("%s", name);
-    printf("%sÀÇ ÇĞÁ¡Àº %cÀÔ´Ï´Ù.\n", name, grade);
+    printf("%sì˜ í•™ì ì€ %cì…ë‹ˆë‹¤.\n", name, grade);
  
     return 0;
 }

@@ -16,8 +16,8 @@ int main(void){
 
     printf("%lf\n", *test);
     printf("%lf\n", test);
-    printf("%lf\n", *pa);
-    printf("%lf\n", a);
+    printf("%d\n", *pa);
+    printf("%d\n", a);
 
     return 0;
 }
