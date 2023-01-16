@@ -20,7 +20,7 @@ int main(void) {
             N /= 10;
             a = (dN - N + 0.05) * 10;
             res += a;
-        }
+        } 
         if (j % res == 0)count2++;
         res = 0;
 	}
