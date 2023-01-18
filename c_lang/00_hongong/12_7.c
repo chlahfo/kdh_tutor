@@ -7,6 +7,8 @@ int main(void){
     puts(str);
     fputs(ps, stdout);
     puts("milk");
+
+
     
     return 0;
 }
