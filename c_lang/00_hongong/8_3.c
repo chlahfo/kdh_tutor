@@ -25,5 +25,6 @@ int main(void){
     printf("평균 : %.1lf\n", avg);
 
 
+    
     return 0;
 }
