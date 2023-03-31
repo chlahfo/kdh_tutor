@@ -2,11 +2,27 @@
 
 char *my_strcpy(char *pd, char *ps);
 
-int main(void){
-    char str[80] = "strawberry";    
+//ÀÌ ¶§ ÇÔ¼ö ÀÌ¸§ ¾Õ¿¡ Æ÷ÀÎÅÍ ±âÈ£(!!)°¡ ºÙ´Â ÀÌÀ¯´Â return °ªÀÌ ÁÖ¼Ò °ªÀÌ±â ¶§¹®ÀÌ´Ù.
 
-    printf("ë°”ê¾¸ê¸° ì „ ë¬¸ìì—´: %s\n", str);
+int main(void){
+    char str[80] = "strawberry"; 
+
+    printf("¹Ù²Ù±â Àü ¹®ÀÚ¿­: %s\n", str);
     my_strcpy(str, "apple");
-    printf("ë°”ê¾¼ í›„ ë¬¸ìì—´:%s\n", str);
+    printf("¹Ù²Û ÈÄ ¹®ÀÚ¿­ : %s\n", str);
+    printf("´Ù¸¥ ¹®ÀÚ¿­ ´ëÀÔ : %s\n", my_strcpy(str, "kiwi"));
+
     return 0;
+}
+
+char *my_strcpy(char *pd, char *ps){
+    char *po = pd;
+    while (*ps != '\0'){
+        *pd = *ps;
+        pd++;
+        ps++;
+    }
+    *pd = '\0';
+
+    return po;
 }
